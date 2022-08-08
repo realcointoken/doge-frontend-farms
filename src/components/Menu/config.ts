@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://exchange.pastafinance.com/',
+        href: 'https://doge-frontend-swap.vercel.app/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'http://exchange.pastafinance.com/#/pool',
+        href: 'https://doge-frontend-swap.vercel.app/#/pool',
       },
     ],
   },
@@ -41,7 +41,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0xAB9D0Fae6eB062F2698C2D429a1BE9185A5D4F6E',
+        href: 'https://pancakeswap.info/token/0xdfbffb67295ecfb6cd44bc2decd24dc3d55edd07',
       },
     ],
   },
@@ -55,11 +55,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/',
+        href: 'https://www.coingecko.com/en/coins/DogeGoldFloki',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/',
+        href: 'https://coinmarketcap.com/currencies/DogeGoldFloki',
       },
     ],
   },
