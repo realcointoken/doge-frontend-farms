@@ -51,15 +51,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/pastafinance/",
+        href: "https://github.com/Doge-Gold-Floki",
       },
       {
         label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/pasta-finance',
+        href: 'https://www.coingecko.com/en/coins/',
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/pasta-finance/',
+        href: 'https://coinmarketcap.com/currencies/',
       },
     ],
   },
